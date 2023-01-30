@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conexao_WFA_Arduino", "Conexao_WFA_Arduino\Conexao_WFA_Arduino.csproj", "{95AA54E4-A116-4222-9CCB-6C90E29BCA61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95AA54E4-A116-4222-9CCB-6C90E29BCA61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95AA54E4-A116-4222-9CCB-6C90E29BCA61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95AA54E4-A116-4222-9CCB-6C90E29BCA61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95AA54E4-A116-4222-9CCB-6C90E29BCA61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {595A009D-C70F-4B23-BE39-D1C01F3F031F}
+	EndGlobalSection
+EndGlobal
